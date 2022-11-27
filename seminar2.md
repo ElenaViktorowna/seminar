@@ -4,3 +4,6 @@
 ## Branch creating
 
 ## Branch merging
+
+## Conflicts
+
