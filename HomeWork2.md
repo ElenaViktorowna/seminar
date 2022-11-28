@@ -19,4 +19,12 @@ Fast Forward - Одна ветка дополняет другую
 
 # Виды решения конфликтов
 
+Accept current change - принять текущее изменение
+
+Accept incoming change - принять входящие изменения
+
+Accept both change - принять оба изменения
+
+Compare changes - сравнить изменения
+
 
